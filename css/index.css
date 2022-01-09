@@ -2555,7 +2555,7 @@ blockquote footer cite:before {
   font-size: 1.57em;
 }
 #aside-content .card-info .author-info__description {
-  margin-top: -0.3rem;
+  font-size: 0.5em;
 }
 #aside-content .card-info .card-info-data {
   display: table;
